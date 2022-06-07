@@ -21,7 +21,7 @@
 	</properties>
 	<scm>
 		<developerConnection>
-			scm:git:git@github.com/EzinneJ/ezinne-pet-clinic.git
+			scm:git:@github.com/EzinneJ/ezinne-pet-clinic.git
 		</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
