@@ -24,7 +24,7 @@
 		<developerConnection>
 			scm:git:git@github.com/EzinneJ/ezinne-pet-clinic.git
 		</developerConnection>
-	  <tag>ezinne-pet-clinic-0.0.2</tag>
+	  <tag>ezinne-pet-clinic-0.0.1</tag>
   </scm>
 	<build>
 		<pluginManagement>
