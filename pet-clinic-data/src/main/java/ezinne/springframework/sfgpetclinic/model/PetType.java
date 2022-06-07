@@ -1,4 +1,4 @@
-package ezinne.springframework.ezinnepetclinic.model;
+package ezinne.springframework.sfgpetclinic.model;
 
 public class PetType {
     private String name;
