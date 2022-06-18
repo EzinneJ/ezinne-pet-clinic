@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>ezinne.springframework</groupId>
 	<artifactId>ezinne-pet-clinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>ezinne-pet-clinic</name>
 	<description>Ezinne Pet Clinic Project</description>
 	<properties>
@@ -52,7 +52,7 @@
 		<developerConnection>
 			scm:git:git@github.com:EzinneJ/ezinne-pet-clinic.git
 		</developerConnection>
-		<tag>ezinne-pet-clinic-0.0.2</tag>
+		<tag>ezinne-pet-clinic-0.0.1</tag>
 	</scm>
 
 </project>
