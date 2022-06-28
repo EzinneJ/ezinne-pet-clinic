@@ -57,6 +57,11 @@
             <version>${webjars-bootstrap.version}</version>
         </dependency>
         <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-core</artifactId>
+            <version>4.5.1</version>
+        </dependency>
+        <dependency>
             <groupId>org.webjars.npm</groupId>
             <artifactId>font-awesome</artifactId>
             <version>${webjars-font-awesome.version}</version>
@@ -84,6 +89,7 @@
                                     <groupId>org.webjars.npm</groupId>
                                     <artifactId>bootstrap</artifactId>
                                     <version>${webjars-bootstrap.version}</version>
+                                    <webjars-bootstrap.version>3.3.7-1</webjars-bootstrap.version>
                                 </artifactItem>
                             </artifactItems>
                             <outputDirectory>${project.build.directory}/webjars</outputDirectory>
