@@ -4,9 +4,11 @@ import ezinne.springframework.sfgpetclinic.model.Vet;
 import ezinne.springframework.sfgpetclinic.model.Visit;
 import ezinne.springframework.sfgpetclinic.services.VetService;
 import ezinne.springframework.sfgpetclinic.services.VisitService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class VisitMapService extends AbstractMapService<Visit, Long> implements VisitService {
 
     @Override
